@@ -1,0 +1,7 @@
+Sabor: morango
+Valor do sorvete: R$20,00
+Quantidade de água do sorvete: 20,00
+Quantidade de leite do sorvete: 30,00
+Quantidade de gordura do sorvete: 90,00
+Quantidade de açúcar do sorvete: 10,00
+Quantidade de saborizante do sorvete: 12,00
